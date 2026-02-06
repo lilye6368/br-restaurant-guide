@@ -6,4 +6,3 @@ Select a specific Asian food:
 ## Japanese
 ## Thai
 [Start Over](../home.md)
-
